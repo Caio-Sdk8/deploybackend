@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'projetox'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F097D8B0557544B78012CE5E812A0F59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAE562799F5843B6A784CF4E8B708DB1 }}
           package: .
